@@ -1,0 +1,13 @@
+addr: 0.0.0.0:6001
+
+local:
+  filesPath: /release-notes
+
+page:
+  title: Lista Recurring Events Changelog
+  subtitle: The latest updates and improvements
+  colorScheme: system
+  hidePoweredBy: true
+  logo:
+    src: https://listapage.au/logo.png
+    link: https://listapage.au
